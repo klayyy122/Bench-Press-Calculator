@@ -1,3 +1,0 @@
-/home/klayyy122/projects/build/CMakeFiles/main.dir
-/home/klayyy122/projects/build/CMakeFiles/edit_cache.dir
-/home/klayyy122/projects/build/CMakeFiles/rebuild_cache.dir
