@@ -25,3 +25,9 @@ public:
     void getResult();
     
 };
+
+struct Helper
+{
+   bool is_number(const std::string& s);
+   void fix(std::string& weight, std::string& reps, double& weight_, int& reps_);
+};
