@@ -8,8 +8,8 @@ int main(){
     while(question == 'y' ){
         std::cout << "Enter bench's weigth and count of reps" << std::endl;
         std::cin >> weight >> reps;
-        if(reps < 1){
-            std::cout << "Enter correct count of reps: ";
+        if(reps < 1 || weight <=0){
+            std::cout << "Enter correct count of reps or correct weight: ";
            std::cin >> reps;
            std::cout << std::endl;
         }
